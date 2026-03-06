@@ -11,22 +11,14 @@
             "id": "1fc0c69d3376958a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "99 Scratchpad/00 Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "99 Scratchpad/Military faction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "00 Kanban"
+              "icon": "lucide-file",
+              "title": "Military faction"
             }
           }
         ]
@@ -202,11 +194,12 @@
   },
   "active": "1fc0c69d3376958a",
   "lastOpenFiles": [
+    "05 Civilisation/Cultural Template.md",
+    "99 Scratchpad/00 Kanban.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
     "00 Whats What.md",
     "Stormrise Phase.md",
     "Belt Wind Drives.md",
-    "99 Scratchpad/00 Kanban.md",
     "README.md",
     "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
     "03 Power and Tech/Personal Equipment/Jumpstaff.md",
@@ -220,7 +213,6 @@
     "03 Power and Tech/Personal Equipment/Springpack.md",
     "Untitled 1.base",
     "Untitled 2.base",
-    "05 Civilisation/Cultural Template.md",
     "05 Civilisation/Untitled.base",
     "Untitled.base",
     "03 Power and Tech/Personal Equipment",
