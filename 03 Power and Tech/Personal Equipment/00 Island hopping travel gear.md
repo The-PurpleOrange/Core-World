@@ -1,4 +1,9 @@
-[[Spring-pack]]
-[[Glider]]
-[[Backpack Flywheel Battery Storage]]
+
+Crossing Gear
+	Energy Storage
+		[[Backpack Flywheel Battery Storage]]
+		[[Spring-pack]]
+
+
+[[Glider
 [[Jump-staff]]
