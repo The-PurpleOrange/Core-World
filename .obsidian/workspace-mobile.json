@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "18ef5f7c63b132f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "43590f70c5ce3475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e163c041d81abd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Whats What.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Whats What"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf23a5cf2505fbc0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a5f159bb8458a8f0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "61d09e10472dad82",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "75289d36bbcaf53a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c781aad08dc4aabd",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "2696ba57d30df2cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fa0dd32659f339d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9c05fed353d4c9b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00 Whats What.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f693773fd4880e7d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00 Whats What.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ca7abe993ce28f3c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00 Whats What.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "6e163c041d81abd3",
+  "lastOpenFiles": [
+    "/99 Scratchpad/Military faction.md",
+    "/99 Scratchpad",
+    "99 Scratchpad/Military faction.md",
+    "00 Whats What.md",
+    "99 Scratchpad/Character - Anne Bonny.md",
+    "99 Scratchpad/00 Kanban.md",
+    "99 Scratchpad/01- Ideas to expand upon.md",
+    "99 Scratchpad/System Core Overview.md",
+    "99 Scratchpad/Mechanical Energy Storage Systems.md",
+    "99 Scratchpad/Dominate Power System.md",
+    "99 Scratchpad/Underside Mining Opperations.md",
+    "99 Scratchpad",
+    "08 Meta",
+    "07 Reference",
+    "06 Story",
+    "05 Civilisation/Cultural Template.md",
+    "05 Civilisation/Shared Institutions",
+    "05 Civilisation/Drifter Societies",
+    "05 Civilisation/Cluster Villages",
+    "05 Civilisation/Belt Cultures",
+    "05 Civilisation/Anchored States",
+    "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
+    "03 Power and Tech/Personal Equipment/Jumpstaff.md",
+    "03 Power and Tech/Personal Equipment/Glider.md",
+    "03 Power and Tech/Personal Equipment/Backpack Flywheel Battery Storage.md",
+    "03 Power and Tech/Personal Equipment/Springpack.md",
+    "Untitled.md"
+  ]
+}
