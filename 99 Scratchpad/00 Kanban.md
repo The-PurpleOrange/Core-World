@@ -19,6 +19,7 @@ kanban-plugin: board
 
 ## Designing
 
+- [ ] [[00 Whats What]]
 - [ ] [[00 Island hopping travel gear]]
 - [ ] [[System Core Overview]]
 

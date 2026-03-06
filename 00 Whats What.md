@@ -124,9 +124,9 @@ Myths and Beliefs
 Very important:  
 Story notes should reference world notes using Obsidian links like:
 
-[[Belt Wind Drives]]  
-[[Stormrise Phase]]  
-[[Anchored Islands]]
+Belt Wind Drives
+Stormrise Phase
+Anchored Island
 
 Don’t copy lore into story notes. Link it.
 

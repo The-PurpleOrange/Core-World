@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4a821459ca908b",
+        "id": "8068efe68968b6cf",
         "type": "tabs",
         "children": [
           {
-            "id": "db23395d37e3c0b7",
+            "id": "1fc0c69d3376958a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
-                "mode": "source",
-                "source": false
+                "file": "99 Scratchpad/00 Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "00 Island hopping travel gear"
+              "icon": "lucide-trello",
+              "title": "00 Kanban"
             }
           }
         ]
@@ -192,22 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db23395d37e3c0b7",
+  "active": "1fc0c69d3376958a",
   "lastOpenFiles": [
+    "99 Scratchpad/01- Ideas to expand upon.md",
+    "00 Whats What.md",
+    "Stormrise Phase.md",
+    "Belt Wind Drives.md",
+    "99 Scratchpad/00 Kanban.md",
     "README.md",
+    "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
     "03 Power and Tech/Personal Equipment/Jumpstaff.md",
     "03 Power and Tech/Personal Equipment/Backpack Flywheel Battery Storage.md",
     "99 Scratchpad/Mechanical Energy Storage Systems.md",
-    "99 Scratchpad/00 Kanban.md",
     "99 Scratchpad/Military faction.md",
     "03 Power and Tech/Personal Equipment/Glider.md",
     "99 Scratchpad/Character - Anne Bonny.md",
-    "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
     "99 Scratchpad/Underside Mining Opperations.md",
     "99 Scratchpad/System Core Overview.md",
-    "00 Whats What.md",
     "03 Power and Tech/Personal Equipment/Springpack.md",
-    "99 Scratchpad/01- Ideas to expand upon.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "05 Civilisation/Cultural Template.md",
@@ -222,7 +232,6 @@
     "05 Civilisation/Drifter Societies",
     "05 Civilisation/Cluster Villages",
     "05 Civilisation/Belt Cultures",
-    "Belt Wind Drives.md",
     "Welcome.md"
   ]
 }
