@@ -1,0 +1,8 @@
+- Cosmology (What they think causes light)
+- Calendar Use
+- Economic Base
+- Technology Emphasis
+- Seasonal Psychology
+- Political Structure
+- Superstitions
+- Relationship to Other Cultures

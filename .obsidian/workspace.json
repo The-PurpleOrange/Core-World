@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "9db6dcd9221c7b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4a821459ca908b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db23395d37e3c0b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "107cd0c7357f21be",
+    "type": "split",
+    "children": [
+      {
+        "id": "da53136735211b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "affdb925e83e0b38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a91c32d22c6a20a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99a3bad09c49dc96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "6dcd3fef7e136fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52831437fbd5f4d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b886fb92c122767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3bfe3f1e83757f07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5ac20aff299224b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92b3b512384b70e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d0d6ed3535eee603",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "db23395d37e3c0b7",
+  "lastOpenFiles": [
+    "03 Power and Tech/Personal Equipment/Jumpstaff.md",
+    "03 Power and Tech/Personal Equipment/Backpack Flywheel Battery Storage.md",
+    "99 Scratchpad/Mechanical Energy Storage Systems.md",
+    "99 Scratchpad/00 Kanban.md",
+    "99 Scratchpad/Military faction.md",
+    "03 Power and Tech/Personal Equipment/Glider.md",
+    "99 Scratchpad/Character - Anne Bonny.md",
+    "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
+    "99 Scratchpad/Underside Mining Opperations.md",
+    "99 Scratchpad/System Core Overview.md",
+    "00 Whats What.md",
+    "03 Power and Tech/Personal Equipment/Springpack.md",
+    "99 Scratchpad/01- Ideas to expand upon.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "05 Civilisation/Cultural Template.md",
+    "05 Civilisation/Untitled.base",
+    "Untitled.base",
+    "03 Power and Tech/Personal Equipment",
+    "99 Scratchpad/Dominate Power System.md",
+    "00 System Core/Underside atmospheric limits in mining.md",
+    "03 Power and Tech/Backpack Flywheel Drill.md",
+    "08 Meta",
+    "05 Civilisation/Shared Institutions",
+    "05 Civilisation/Drifter Societies",
+    "05 Civilisation/Cluster Villages",
+    "05 Civilisation/Belt Cultures",
+    "Belt Wind Drives.md",
+    "Welcome.md"
+  ]
+}
