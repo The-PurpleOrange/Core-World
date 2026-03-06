@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35fef22b36ee99df",
+  "active": "08b46ce8f3154cca",
   "lastOpenFiles": [
     "Untitled.base",
     "00 Whats What.md",
