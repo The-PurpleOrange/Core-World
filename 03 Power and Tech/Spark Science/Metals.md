@@ -259,12 +259,6 @@ Tools and machines.
 
 # For Your Floating Island World
 
-Given your **pre-combustion mechanical technology** rule
-
-FLOATING-ISLAND-WORLD-—-POWER-S…
-
-:
-
 The most common metals would likely be:
 
 **Common**
