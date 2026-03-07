@@ -13,7 +13,7 @@ kanban-plugin: board
 ## Investigation
 
 - [ ] [[Dominate Power System]]
-- [ ] [[Converting Mechanical to Electrical]]
+- [ ] [[Mechanical Energy Storage Systems]]
 - [ ] [[Underside Mining Opperations]]
 
 

@@ -1,7 +1,7 @@
 
 Crossing Gear
 	Energy Storage
-		[[Flywheel Pack]]
+		[[Backpack Flywheel Battery Storage]]
 		[[Spring-pack]]
 
 
