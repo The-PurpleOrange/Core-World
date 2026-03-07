@@ -11,14 +11,14 @@
             "id": "35fef22b36ee99df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "99 Scratchpad/Characters/Character - Anne Bonny.md",
-                "mode": "source",
-                "source": false
+                "aFile": "99 Scratchpad/Characters/Character - Anne Bonny.md",
+                "bFile": "99 Scratchpad/Characters/Character - Anne Bonny.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Character - Anne Bonny"
+              "icon": "diff",
+              "title": "Diff: Character - Anne Bonny  (Working Tree)"
             }
           }
         ]
@@ -193,15 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affdb925e83e0b38",
+  "active": "35fef22b36ee99df",
   "lastOpenFiles": [
+    "99 Scratchpad/Characters/Character - Anne Bonny.md",
     "99 Scratchpad/Characters",
     "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
     "03 Power and Tech/Personal Equipment/Backpack Flywheel Battery Storage.md",
     "Untitled.base",
     "00 Whats What.md",
     "99 Scratchpad/00 Kanban.md",
-    "99 Scratchpad/Characters/Character - Anne Bonny.md",
     "99 Scratchpad/Dominate Power System.md",
     "99 Scratchpad/Military faction.md",
     "05 Civilisation/Cultural Template.md",
@@ -225,7 +225,6 @@
     "05 Civilisation/Shared Institutions",
     "05 Civilisation/Drifter Societies",
     "05 Civilisation/Cluster Villages",
-    "05 Civilisation/Belt Cultures",
     "Welcome.md"
   ]
 }
