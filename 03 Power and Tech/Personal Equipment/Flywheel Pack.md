@@ -115,6 +115,7 @@ E = ½ · m_total · r² · ω²
 - **radius = 0.15 m**
 - **mass listed = total for both wheels**
 
+---
 ## Stored energy (kJ)
 _(If your wheels are more “solid disk” than “ring”, roughly halve these.)_
 
@@ -126,22 +127,18 @@ _(If your wheels are more “solid disk” than “ring”, roughly halve these.
 - **4 kg (light):** ~**17.8 kJ**
 - **8 kg (worker):** ~**35.5 kJ**
 - **12 kg:** ~**53.3 kJ**
-
 ### 8000 rpm
 - **2 kg:** ~**15.8 kJ**
 - **4 kg:** ~**31.6 kJ**
 - **8 kg:** ~**63.2 kJ**
 - **12 kg:** ~**94.7 kJ**
-
 ### 10000 rpm
 - **2 kg:** ~**24.7 kJ**
 - **4 kg:** ~**49.3 kJ**
 - **8 kg:** ~**98.7 kJ**
 - **12 kg (heavy duty):** ~**148.0 kJ**
 - **20 kg (heavy industrial):** ~**246.7 kJ** (massive bomb threat at this speed)
-  
 ### 12000 rpm
 - **4 kg:** ~**71 kJ**
-
 ### 14000 rpm
 - **2 kg:** ~**48 kJ**
