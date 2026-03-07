@@ -1,45 +1,73 @@
-Glide ratio =  
-**horizontal distance : vertical drop**
+### Overview
 
-Typical ranges:
+Gliders are lightweight deployable wings used to extend jumps and controlled descents between islands.
 
-| Glider type                         | Glide ratio |
-| ----------------------------------- | ----------- |
-| crude cloth wing / cloak / wingsuit | 3:1         |
-| basic trained glider                | 5:1         |
-| good lightweight glider             | 8:1         |
-| excellent modern glider             | 10:1+       |
+They are not capable of powered flight and rely entirely on **initial height and forward velocity** to generate lift.
 
-Real world:
+In island-hopping cultures, gliders are commonly paired with [[Jumpstaffs]], [[Spring Drive Pack]], or [[Grapple Launcher]] to increase travel distance across short gaps.
 
-|Device|Glide ratio|
-|---|---|
-|Wingsuit|**2.5:1 – 3.5:1**|
-|Cheap hang glider|**5:1 – 7:1**|
-|Good hang glider|**10:1 – 15:1**|
-|Paraglider|**8:1 – 11:1**|
-|Modern sailplane|**40:1 – 60:1**|
+Gliders are typically designed to be **portable**, folding or collapsing so they can be carried during normal travel.
+
+Typical uses include:
+
+- extending jump range
+- stabilizing long descents
+- crossing narrow island gaps
+- controlled landing from elevated platforms
+- emergency escape from cliffs or airships
 
 ---
 
-Assume the **springpack gives 2 m extra height**.
+## Typical Glide Ratios
 
-Horizontal distance =
+|Device Type|Glide Ratio|
+|---|---|
+|simple cloak wing|~2:1 – 3:1|
+|traveler deployable glider|~4:1 – 6:1|
+|rigid courier glider|~6:1 – 8:1|
+|advanced rigid glider|~8:1 – 10:1|
 
-distance = height × glide_ratio
+Higher glide ratios allow greater horizontal distance for the same vertical drop.
 
-### Crude cloak glider (3:1)
+---
 
-2 m × 3 = 6 m
+## Distance Calculation
 
-### Basic glider (5:1)
+Horizontal travel distance can be estimated using: Distance = Height × Glide Ratio
 
-2 m × 5 = 10 m
+Where:
+- **Height** = vertical drop
+- **Glide Ratio** = aerodynamic efficiency
 
-### Good glider (8:1)
+For example:
+Height gained from a [[Jump Harness]] ≈ 2 m  
+Glide ratio ≈ 5:1  
+Distance ≈ 10 m
 
-2 m × 8 = 16 m
+This means even a small height boost can significantly increase travel distance.
 
-### Excellent glider (10:1)
+---
 
-2 m × 10 = 20 m
+## Limitations
+
+Gliders require:
+- sufficient starting height
+- adequate forward velocity
+- safe landing space
+
+They cannot:
+- gain altitude
+- hover
+- fly without descent
+
+Strong winds and turbulence can also make gliding hazardous.
+
+---
+
+## Cultural Role
+
+In island cultures, gliders are common travel equipment.
+
+Travelers often carry some form of deployable wing to assist with short crossings.
+
+Because gliders dramatically increase the usefulness of jump systems, they are considered a standard part of island-hopping gear.
