@@ -4,7 +4,7 @@ The planet’s atmosphere is driven primarily by **temperature differences betwe
   
 The permanent bright pole receives constant radiant heating from the core, while the permanent dark pole remains in shadow and acts as a cold sink.  
   
-This temperature imbalance creates large-scale atmospheric circulation that moves heat and moisture across the planet.  
+This temperature imbalance creates large-scale atmospheric circulation that moves heat and moisture collected from the tropical ring surrounding it across the planet.  
   
 However, circulation is not a single continuous flow.    
 Instead, the atmosphere forms **stable wind belts and circulating cells** that move air in multiple directions.  
@@ -37,7 +37,7 @@ Wind belts are long, stable atmospheric currents that move air horizontally acro
 Characteristics:  
   
 - relatively consistent direction  
-- stable over long time periods  
+- stable over long time periods but slowly migrate  
 - major drivers of island movement  
 - define common travel routes  
   
@@ -67,8 +67,8 @@ These regions are characterized by:
   
 Storm belts tend to form:  
   
-- below the humid region south of the bright pole  
-- at boundaries between major wind belts  
+- secondary storm corridors along wind belt boundries  
+- at major storm belt near the hot north  
 - along strong temperature gradients  
   
 These areas are important sources of rainfall for the temperate regions.  

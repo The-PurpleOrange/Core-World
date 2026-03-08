@@ -3,3 +3,17 @@
 - steel isn't prevalent because the industry isn't setup for it, making acquiring it much harder.
 - Maybe a blindspot on the top of the big sub blocking rock, so that theres a spot always exposed and the heats up the air alot and is also deserts, also maybe death cult hurl into sun? 
 - the farming union is run by corrupt officials working with the merchant union, and agriculture is starting to crumble
+- Soils and Surface Geology (important)
+	- soil depth variation
+	- mineral-rich vs barren islands
+	- erosion and soil loss
+	- dust deposition
+- Cloud Sea Dynamics (important)
+	- cloud sea currents
+	- vertical convection zones
+	- calm vs turbulent regions
+	- giant storm upwellings
+- temperature effects of altitude in climate zones and structure
+- Long term climate cycles (Unimportant)
+- Fire and disturbance ecology (they shape vegetation cycles)
+- 

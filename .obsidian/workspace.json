@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Time and Cycles/Atmospheric Circulation.md",
+                "file": "02 Time and Cycles/Hydrological Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atmospheric Circulation"
+              "title": "Hydrological Cycle"
+            }
+          },
+          {
+            "id": "ac80d130ebd6adfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Time and Cycles/Climate Zones and Biomes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Climate Zones and Biomes"
+            }
+          },
+          {
+            "id": "69d544cb2bf572ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 Scratchpad/01- Ideas to expand upon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Ideas to expand upon"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,14 +222,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56cb2176c9738da8",
+  "active": "69d544cb2bf572ff",
   "lastOpenFiles": [
-    "01 World Structure/Planetary Climate Structure.md",
-    "02 Time and Cycles/Atmospheric Circulation.md",
+    "02 Time and Cycles/Climate Zones and Biomes.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
+    "99 Scratchpad/Soils and Surface Geology.md",
+    "02 Time and Cycles/Hydrological Cycle.md",
+    "02 Time and Cycles/Atmospheric Circulation.md",
+    "02 Time and Cycles/Agricultural Climates.md",
+    "02 Time and Cycles/Time and Seasons Reference.md",
+    "01 World Structure/Planetary Climate Structure.md",
+    "02 Time and Cycles/Local Weather Modifiers.md",
     "99 Scratchpad/System Core Overview.md",
     "03 Power and Tech/00 Dominate Power System.md",
-    "02 Time and Cycles/Time and Seasons Reference.md",
     "00 Whats What.md",
     "03 Power and Tech/Personal Equipment/Flywheel Pack.md",
     "03 Power and Tech/Personal Equipment/Glider.md",
@@ -216,12 +250,7 @@
     "99 Scratchpad/Military faction.md",
     "99 Scratchpad/Converting Mechanical to Electrical.md",
     "99 Scratchpad/00 Kanban.md",
-    "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
-    "03 Power and Tech/Personal Equipment/00 Island hopping travel gear.md",
     "03 Power and Tech/Personal Equipment",
-    "03 Power and Tech/Personal Equipment/Springpack.md",
-    "03 Power and Tech/Personal Equipment/Backpack Flywheel Battery Storage.md",
-    "03 Power and Tech/Spark Science/Metals.md",
     "base.base",
     "03 Power and Tech/Untitled.canvas",
     "03 Power and Tech/Spark Science/Untitled.base",
