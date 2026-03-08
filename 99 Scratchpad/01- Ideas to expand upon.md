@@ -16,4 +16,3 @@
 - temperature effects of altitude in climate zones and structure
 - Long term climate cycles (Unimportant)
 - Fire and disturbance ecology (they shape vegetation cycles)
-- 
