@@ -16,3 +16,4 @@
 - temperature effects of altitude in climate zones and structure
 - Long term climate cycles (Unimportant)
 - Fire and disturbance ecology (they shape vegetation cycles)
+- lift crystal can be grown and shaped for either more thrust or more storage, and maybe can be connected through wires of crystal rich material? 
