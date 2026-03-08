@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b92d3f5b35dacb4",
+        "id": "3f6e9d3da90b0ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "f8527536f681636c",
+            "id": "d5205a13c3f582bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 World Structure/Floating Island Mechanics.md",
+                "file": "01 World Structure/Cloud Sea Depth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating Island Mechanics"
+              "title": "Cloud Sea Depth"
             }
           }
         ]
@@ -180,10 +180,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f8527536f681636c",
+  "active": "d5205a13c3f582bf",
   "lastOpenFiles": [
     "03 Power and Tech/Metals Overview.md",
     "01 World Structure/Floating Island Mechanics.md",
+    "01 World Structure/Cloud Sea Dynamics.md",
+    "01 World Structure/Cloud Sea Depth.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
     "01 World Structure/Planetary Climate Structure.md",
     "03 Power and Tech/Lift Mineral.md",
@@ -210,8 +212,6 @@
     "03 Power and Tech/00 Dominate Power System.md",
     "/03 Power and Tech",
     "/99 Scratchpad",
-    "03 Power and Tech/Personal Equipment/Jump Harness.md",
-    "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
     "/03 Power and Tech/Spark Science",
     "/03 Power and Tech/Personal Equipment",
     "base.base",
