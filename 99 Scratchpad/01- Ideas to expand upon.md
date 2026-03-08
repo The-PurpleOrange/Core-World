@@ -1,3 +1,5 @@
-Why do the islands float
-travel method? tiny islands grapple shoot to another island, reel in while riding the tiny islands
-steel isn't prevalent because the industry isn't setup for it, making acquiring it much harder.
+- Why do the islands float
+- travel method? tiny islands grapple shoot to another island, reel in while riding the tiny islands
+- steel isn't prevalent because the industry isn't setup for it, making acquiring it much harder.
+- Maybe a blindspot on the top of the big sub blocking rock, so that theres a spot always exposed and the heats up the air alot and is also deserts, also maybe death cult hurl into sun? 
+- the farming union is run by corrupt officials working with the merchant union, and agriculture is starting to crumble
