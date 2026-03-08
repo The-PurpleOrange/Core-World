@@ -17,3 +17,4 @@
 - Long term climate cycles (Unimportant)
 - Fire and disturbance ecology (they shape vegetation cycles)
 - lift crystal can be grown and shaped for either more thrust or more storage, and maybe can be connected through wires of crystal rich material? 
+- is the floating mineral an infection, slowly eating everything, and it fights gravity when it's exposed to the core, is it a parasitic crystal? Life cycle is hyperfast fragments in space, imbed into planetary body, eat towards core, surround it > gradually eating upwards surface while beneath becomes pure crystal, eventually the surface is breached and due to some sort of internal pressure difference with space it ejects out the majority of the crystal as shards at hyperfast speeds restarting the cycle. - cosmic horror
