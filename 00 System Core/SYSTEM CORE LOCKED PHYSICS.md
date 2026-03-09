@@ -1,3 +1,6 @@
+This file defines immutable world Physics
+Changing any of it changes how everything works.
+
 ## 00_SYSTEM_CORE (Locked Physics)
 
 These are “laws of reality.”

@@ -6,20 +6,20 @@ kanban-plugin: board
 
 ## Inbox
 
-- [ ] [[Character - Anne Bonny]]
+- [ ] [[Character - Anne Bonny-like]]
 - [ ] [[Military faction]]
 
 
 ## Investigation
 
-- [ ] [[00 Dominate Power System]]
+- [ ] [[Dominate Power System]]
 - [ ] [[Converting Mechanical to Electrical]]
 - [ ] [[Underside Mining Opperations]]
 
 
 ## Designing
 
-- [ ] [[00 Whats What]]
+- [ ] [[SYSTEM CORE LOCKED PHYSICS]]
 - [ ] [[00 Island hopping travel gear]]
 - [ ] [[System Core Overview]]
 
