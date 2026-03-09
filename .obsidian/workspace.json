@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Civilisation/Island Alignment Events.md",
+                "file": "01 World Structure/Global Light States (Primary Seasonal Driver).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Island Alignment Events"
+              "title": "Global Light States (Primary Seasonal Driver)"
             }
           }
         ]
@@ -193,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affdb925e83e0b38",
+  "active": "f86c1f41890db53a",
   "lastOpenFiles": [
-    "02 Time and Cycles/Geological Seasons.md",
-    "05 Civilisation/Island Alignment Events.md",
     "02 Time and Cycles/Cloud Darkening Cycle.md",
+    "05 Civilisation/Island Alignment Events.md",
+    "02 Time and Cycles/Geological Seasons.md",
     "01 World Structure/Global Light States (Primary Seasonal Driver).md",
     "01 World Structure/Climate Zones and Biomes.md",
     "01 World Structure/Agricultural Climates.md",
