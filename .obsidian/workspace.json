@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7a58a75ee30f1d",
+        "id": "c8c841df4234c166",
         "type": "tabs",
         "children": [
           {
-            "id": "f86c1f41890db53a",
+            "id": "0fe00e7e8c051814",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 World Structure/Global Light States (Primary Seasonal Driver).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Global Light States (Primary Seasonal Driver)"
+              "title": "New tab"
             }
           }
         ]
@@ -193,19 +189,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f86c1f41890db53a",
+  "active": "0fe00e7e8c051814",
   "lastOpenFiles": [
-    "02 Time and Cycles/Cloud Darkening Cycle.md",
-    "05 Civilisation/Island Alignment Events.md",
+    "02 Time and Cycles/Regional Atmospheric States.md",
     "02 Time and Cycles/Geological Seasons.md",
-    "01 World Structure/Global Light States (Primary Seasonal Driver).md",
+    "02 Time and Cycles/Local Weather Modifiers.md",
+    "02 Time and Cycles/Cloud Darkening Cycle.md",
+    "01 World Structure/Cloud Sea Depth.md",
     "01 World Structure/Climate Zones and Biomes.md",
+    "01 World Structure/Climate Engine.md",
+    "01 World Structure/Global Light States (Primary Seasonal Driver).md",
+    "05 Civilisation/Island Alignment Events.md",
     "01 World Structure/Agricultural Climates.md",
     "02 Time and Cycles/Time and Seasons Reference.md",
-    "02 Time and Cycles/Local Weather Modifiers.md",
     "00 System Core/Cloud Sea Dynamics.md",
     "00 System Core/Planetary Climate Structure.md",
-    "01 World Structure/Cloud Sea Depth.md",
     "00 System Core/SYSTEM CORE LOCKED PHYSICS.md",
     "base.base",
     "08 Meta/Things to Expand.md",
@@ -220,8 +218,6 @@
     "06 Story/Characters/Character - Anne Bonny-like.md",
     "00 System Core/Hydrological Cycle.md",
     "04 Ecology/Cloud Sea Life.md",
-    "04 Ecology/Sky Fauna.md",
-    "04 Ecology/Pollinator Systems.md",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
     "03 Power and Tech/Spark Science/Untitled.base",
