@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6e9d3da90b0ce5",
+        "id": "b2c90a7bb8abcfd0",
         "type": "tabs",
         "children": [
           {
-            "id": "d00a90e8d4ce000a",
+            "id": "5dfbf33deeb8e644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Power and Tech/Lift Mineral — True Lifecycle Model.md",
+                "file": "99 Scratchpad/01- Ideas to expand upon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lift Mineral — True Lifecycle Model"
+              "title": "01- Ideas to expand upon"
             }
           }
         ]
@@ -180,43 +180,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d00a90e8d4ce000a",
+  "active": "5dfbf33deeb8e644",
   "lastOpenFiles": [
-    "05 Civilisation/Vertical Stratification.md",
-    "03 Power and Tech/Lift Mineral — True Lifecycle Model.md",
+    "07 Reference/Social Vertical Stratification.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
-    "Untitled Kanban.md",
-    "01 World Structure/Cloud Sea Depth.md",
-    "03 Power and Tech/Metals Overview.md",
-    "01 World Structure/Floating Island Mechanics.md",
-    "01 World Structure/Cloud Sea Dynamics.md",
-    "01 World Structure/Planetary Climate Structure.md",
-    "03 Power and Tech/Lift Mineral.md",
-    "02 Time and Cycles/Hydrological Cycle.md",
+    "00 System Core/Global Wind Belts.md",
+    "00 System Core/SYSTEM CORE LOCKED PHYSICS.md",
+    "05 Civilisation/Island Alignment Events.md",
+    "00 System Core/Planetary Climate Structure.md",
+    "00 System Core/Atmospheric Circulation.md",
+    "01 World Structure/Climate Zones and Biomes.md",
+    "01 World Structure/Agricultural Climates.md",
+    "00 System Core/Floating Island Mechanics.md",
+    "01 World Structure/Global Wind Belts.md",
+    "00 System Core/Cloud Sea Dynamics.md",
+    "02 Time and Cycles/Time and Seasonal System.md",
+    "02 Time and Cycles/Geological Seasons.md",
     "02 Time and Cycles/Time and Seasons Reference.md",
-    "02 Time and Cycles/Local Weather Modifiers.md",
-    "02 Time and Cycles/Climate Zones and Biomes.md",
-    "02 Time and Cycles/Atmospheric Circulation.md",
-    "99 Scratchpad/Soils and Surface Geology.md",
-    "/99 Scratchpad/01- Ideas to expand upon.md",
-    "/99 Scratchpad/00 Kanban.md",
-    "/02 Time and Cycles/Time and Seasons Reference.md",
-    "/02 Time and Cycles/Local Weather Modifiers.md",
-    "/02 Time and Cycles/Hydrological Cycle.md",
-    "/02 Time and Cycles/Climate Zones and Biomes.md",
-    "/02 Time and Cycles/Atmospheric Circulation.md",
-    "/02 Time and Cycles/Agricultural Climates.md",
-    "02 Time and Cycles/Agricultural Climates.md",
-    "/02 Time and Cycles",
-    "/01 World Structure/Planetary Climate Structure.md",
-    "/01 World Structure",
-    "/03 Power and Tech",
+    "02 Time and Cycles/Regional Atmospheric States.md",
+    "01 World Structure/Climate Engine.md",
+    "01 World Structure/Global Light States (Primary Seasonal Driver).md",
+    "00 System Core/Hydrological Cycle.md",
+    "/00 System Core/Atmospheric Circulation.md",
+    "/01 World Structure/Climate Zones and Biomes.md",
+    "/01 World Structure/Agricultural Climates.md",
+    "/00 System Core/Planetary Climate Structure.md",
+    "/00 System Core/Hydrological Cycle.md",
+    "07 Reference/Metals Overview.md",
+    "07 Reference/Metals Comparisons.md",
+    "/08 Meta",
+    "/07 Reference",
+    "/04 Ecology",
+    "/00 System Core",
+    "/06 Story/Characters",
+    "06 Story/Characters",
+    "/06 Story",
+    "/99 Scratchpad/Characters",
     "/99 Scratchpad",
-    "/03 Power and Tech/Spark Science",
-    "/03 Power and Tech/Personal Equipment",
-    "base.base",
-    "/base.base",
-    "99 Scratchpad/Characters",
-    "/99 Scratchpad/Characters"
+    "/05 Civilisation"
   ]
 }

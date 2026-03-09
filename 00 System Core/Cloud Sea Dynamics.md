@@ -71,8 +71,6 @@ Because islands are exposed to wind and sunlight, water retention depends heavil
 
 ## Atmospheric Currents
 
-The cloud sea drives much of the planet’s atmospheric circulation.
-
 Large scale convection from the heated lower atmosphere produces rising air columns.
 
 This motion feeds:
