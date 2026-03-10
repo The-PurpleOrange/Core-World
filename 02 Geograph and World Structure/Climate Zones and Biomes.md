@@ -1,8 +1,13 @@
+#todo-clean This document strictly needs to contain just information on the Climate Zones and Biomes with references when relevent
+- Global biome bands (primary and secondary)
+
+---
 ## Overview  
   
-The planet’s ecosystems are primarily organized into **broad horizontal climate bands** determined by exposure to the radiant core.  
+The planet’s Climate zones are primarily organised into **broad latitudinal climate bands**.
+This is due primarily to the radiant poles constant core exposure (being the main driving engine for the [[01 - Planetary Climate Structure]]).
   
-Because the bright pole receives constant core radiation and the dark pole receives none, temperature gradually decreases from north to south. This produces large-scale **latitudinal climate zones** across the world.  
+Because the bright pole receives constant core radiation and the dark pole receives none, temperature gradually decreases from north to south. This produces large-scale **latitudinal climate zones** across the world.
   
 Within these bands, **atmospheric circulation and island geography modify rainfall and local conditions**, creating regional variations without changing the overall global structure.  
   

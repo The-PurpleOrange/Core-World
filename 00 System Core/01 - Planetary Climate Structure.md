@@ -1,21 +1,36 @@
+#todo-clean This document strictly needs to contain only referring to the interconnected components and processes that govern the worlds climate structure and what fundementally drives it
+- The worlds energy balancing system
+- The source of the worlds energy
+- Core climate regions
+- References to
+	- Atmospheric Circulation and Wind belts
+	- Hydrological Cycle/Cloud Sea Dynamics
+	- Floating island Climate modifiers
+
+---
+
 ## Overview  
   
-The planet’s large-scale climate is primarily determined by **exposure to the radiant core** and the **tilted shadow belt layer** that creates day and night.  
-  
-Because the shadow layer is slightly tilted, the planet has two permanent polar regions:  
-  
-- a **permanent bright pole** that never enters the shadow belt  
-- a **permanent dark pole** that never receives direct core light  
-  
-These polar regions are relatively small (roughly Antarctica-sized) and mainly act as **regional climate extremes** rather than dominating the entire planet.  
-  
-Most of the world exists between these two extremes.  
+The planet’s large-scale climate is primarily determined by the [[Shadow Belts#Primary Shadow Belt|primary]] **tilted shadow belt** and the resulting hot spot at the worlds [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]]. #todo-create
+As well [[Cloud Sea Dynamics|Clouds Sea]]'s seasonal exposure through the secondary **uneven shadow belt**.
+
+Due to the primary shadow layer is slightly tilted, the planet has two permanent polar points: A permanent [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] that is never blocked by the [[Shadow Belts#Primary Shadow Belt|Primary Shadow Belt]], and a permanent [[Global Wind Belts#Belt 7 - Outer Drift|Dark Pole]] that never receives direct core light. These polar regions are relatively small and act as regional climate extremes powering the [[#Climate Engine]] of the world.  
   
 ---  
-  
-## North–South Climate Layout  
+
+## Climate Engine
+
+
+---
+
+## Radiant - Dim Climate Layout  
   
 From the bright pole to the dark pole, the planet can be divided into three major climate bands.  
+[[#Hot Zone (North Quarter)]]
+[[#Temperate Belt (Middle Half)]]
+[[#Cold Zone (South Quarter)]]
+
+---
   
 ### Hot Zone (North Quarter)  
   
@@ -77,25 +92,3 @@ Conditions there are typically:
 - dry  
 - climatically stable  
 - sparsely inhabited  
-  
----  
-  
-## Climate Gradient Summary  
-  
-Approximate planetary distribution:  
-  
-- **Top ~25% of world** — Hot climate zone    
-- **Middle ~50% of world** — Temperate habitable belt    
-- **Bottom ~25% of world** — Cold climate zone    
-  
-Within each band, local geography and atmospheric circulation create many smaller regional climates.  
-  
----  
-  
-## Key Design Principles  
-  
-- **Core exposure controls temperature**  
-- **Atmospheric circulation controls rainfall**  
-- **Local geography controls regional climate**  
-  
-This layered system allows the world to maintain a broad global structure while still supporting diverse environments and ecosystems.

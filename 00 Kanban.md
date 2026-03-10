@@ -6,22 +6,19 @@ kanban-plugin: board
 
 ## Inbox
 
-- [ ] [[Character - Anne Bonny-like]]
-- [ ] [[Military faction]]
 
 
 ## Investigation
 
-- [ ] [[Dominate Power System]]
-- [ ] [[Converting Mechanical to Electrical]]
-- [ ] [[Underside Mining Opperations]]
+- [ ] [[Atmospheric Circulation]]
+- [ ] [[Cloud Sea Dynamics]]
+- [ ] [[Hydrological Cycle]]
 
 
 ## Designing
 
-- [ ] [[SYSTEM CORE LOCKED PHYSICS]]
-- [ ] [[00 Island hopping travel gear]]
-- [ ] [[System Core Overview]]
+- [ ] [[Floating Island Mechanics]]
+- [ ] [[01 - Planetary Climate Structure]]
 
 
 ## Implemented
@@ -30,6 +27,8 @@ kanban-plugin: board
 
 ## Needs Rewrite
 
+- [ ] [[Global Wind Belts]]
+- [ ] [[Lift Mineral — True Lifecycle Model]]
 
 
 

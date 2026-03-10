@@ -15,7 +15,7 @@ Corelight completely blocked by the shadow belt.
 - wind belts slow slightly
 - bioluminescence / moons dominate sky
 
-[[Climate Engine]] Stage: Cooling Phase
+[[Season Phases]] Stage: Cooling Phase
 
 Notes
 - this is the darkest condition the world experiences
@@ -31,7 +31,7 @@ Low-density shadow belt covering the core during the usual daylight period.
 - cooler daytime temperatures
 - longer dew/fog persistence
 
-[[Climate Engine]] Stage: Low Energy Phase
+[[Season Phases]] Stage: Low Energy Phase
 
 Notes
 - constant hazy light
@@ -48,7 +48,7 @@ Low-density shadow belt **plus heavy cloud filtering**.
 - fog layers thicken
 - navigation harder
 
-[[Climate Engine]] Stage: Maximum Dim Phase
+[[Season Phases]] Stage: Maximum Dim Phase
 
 Notes
 - The gloomiest seasonal phase
@@ -64,7 +64,7 @@ Shadow belt not covering the core but light filtered through cloud layer.
 - high humidity
 - ideal agricultural conditions
 
-[[Climate Engine]] Stage: Stable Equilibrium Phase
+[[Season Phases]] Stage: Stable Equilibrium Phase
 
 Notes
 - The most common normal state
@@ -81,7 +81,7 @@ Corelight reaches islands without major obstruction.
 - increased evaporation
 - warmest period
 
-[[Climate Engine]] Stage: High Energy Phase
+[[Season Phases]] Stage: High Energy Phase
 
 Notes
 - High energy climate phase

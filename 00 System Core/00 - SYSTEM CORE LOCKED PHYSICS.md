@@ -4,70 +4,43 @@
 
 # World Core Concept
 
+A world comprised of a core, orbited by islands in a sea of cloud.
+
 The planet’s exposed core is the primary source of **light and heat**.
 
 Civilizations live on floating islands suspended above the core.  
 The habitable region exists above a vast **global cloud sea** that behaves similarly to an ocean surface.
 
-Most life exists in the narrow atmospheric band where:
-
-- stable island altitudes occur
-- moisture from the cloud sea is available
-- core light can reach the surface
+Most human life exists and travels between these islands in the several atmospheric bands above the cloud layer where life thrives.
 
 ---
 
 # Surface Illumination
 
-Surface lighting is produced primarily by **scattered corelight**.
+Illumination of the surface is primarily produced by the diffused light and heat from the core shining through the cloud sea, as well as reflections and scattering from the upper cloud layer.
 
-The exposed planetary core radiates intense light and heat upward.  
-Before reaching the islands this light passes through multiple atmospheric layers.
+It has several modifiers, as things such as denser phases in the secondary shadowbelt for seasonal changes, as well as cloud sea density.
 
-Illumination on the islands comes from:
-
-- direct corelight passing through gaps in the shadowbelts
-- light diffusion in the cloud sea
-- scattering through atmospheric haze and vapor
-- reflection between clouds and islands
-
-The result is a world where lighting resembles **permanent bright twilight** rather than direct sunlight.
-
-Shadows exist but are soft and diffuse.
-
-Brightness varies depending on:
-
-- altitude
-- cloud thickness
-- seasonal filtering of corelight
+Due to this the light level on the surface alternates daily between; a full day bright soft and diffuse shadows during the day, to a permanent nautical twilight at night.
 
 ---
 
 # Seasonal Light System
 
-Seasonal changes occur because of **two particulate belts orbiting between the core and the island layer**.
+Seasonal changes occur because of **two particulate belts orbiting between the core and the cloud sea layer**.
 
 ## Primary Shadowbelt
-
 A dense orbital particulate ring regularly blocks the core.
-
 This produces the **day and night cycle** experienced across the entire world.
 
----
-
 ## Uneven Outer Shadowbelt
-
-A second belt with irregular density slowly rotates relative to the planet.
-
+A second belt with irregular density slowly rotates relative to the core.
 As dense or thin regions of this belt pass between the islands and the core, the amount of light reaching the world changes.
 
-This produces the **planet’s seasonal light cycle**.
-
-These changing light levels drive:
-
+This produces the **planet’s seasonal light cycle** and drives the following natural processes.
 - convection strength
-- storm intensity
-- vegetation growth
+- storm intensity and seasons
+- vegetation growth periods
 - seasonal travel conditions
 
 ---
@@ -75,26 +48,15 @@ These changing light levels drive:
 ## Calendar Structure
 
 ### Day
-
 Defined by the passage of the **primary shadowbelt**.
 
----
-
 ### Turning
-
 One full seasonal cycle.
-
-Length:
-
-- approximately **280 days**
-
----
+Length is approximately **280 days**
 
 ### Cycle
-
 Seven Turnings form a **Cycle**.
-
-A Cycle represents the time required for major drifting island belts to complete a global circuit.
+A Cycle represents the time required for major drifting islands on the Tradewinds Belt to complete a global circuit.
 
 ---
 
@@ -142,7 +104,6 @@ This vertical gradient produces distinct ecological zones across the floating wo
 
 Detailed structure described in:
 
-- [[Altitude Climate Zones]]
 
 ---
 
