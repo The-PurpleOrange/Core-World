@@ -8,8 +8,9 @@ They determine **how much corelight reaches the island layer**. As well as the p
 
 ### 1 — Total Shadow
 [[Season Phases]] Stage: Cooling Phase
+Shadow belt Density: solid
+Cloud Density: N/A 
 
-Corelight completely blocked by the shadow belt.
 - global night
 - strongest cooling period
 - atmospheric convection weakens
@@ -18,6 +19,7 @@ Corelight completely blocked by the shadow belt.
 
 
 Notes
+- corelight completely blocked by shadow belt
 - this is the darkest condition the world experiences
 - agriculture life relies on stored heat and moisture
 
@@ -25,8 +27,9 @@ Notes
 
 ### 2 — Double Filter
 [[Season Phases]] Stage: Maximum Dim Phase
+Shadow belt Density: moderate
+Cloud Density: heavy 
 
-Low-density shadow belt **plus heavy cloud filtering**.
 - extremely low illumination
 - photosynthesis slows
 - temperature drops
@@ -42,8 +45,9 @@ Notes
 
 ### 3 — Diffuse Filter
 [[Season Phases]] Stage: Low Energy Phase
+Shadow belt Density: moderate
+Cloud Density: light 
 
-Low-density shadow belt covering the core during the usual daylight period.
 - bright twilight
 - weaker heating
 - cooler daytime temperatures
@@ -58,8 +62,9 @@ Notes
 
 ### 4 — Cloud Filter
 [[Season Phases]] Stage: Stable Equilibrium Phase
+Shadow belt Density: light
+Cloud Density: light 
 
-Shadow belt not covering the core but light filtered through cloud layer.
 - soft diffuse daylight
 - stable moderate temperatures
 - high humidity
@@ -73,8 +78,9 @@ Notes
 
 ### 4 — Heavy Cloud Filter
 [[Season Phases]] Stage: Stable Equilibrium Phase
+Shadow belt Density: light
+Cloud Density: heavy 
 
-Shadow belt not covering the core but light filtered through heavy cloud layer.
 - dim twilight
 - weaker heating
 - cooler daytime temperatures
@@ -89,8 +95,9 @@ Notes
 
 ### 5 — Clear 
 [[Season Phases]] Stage: High Energy Phase
+Shadow belt Density: none
+Cloud Density: very light/none 
 
-Corelight reaches islands without major obstruction.
 - brightest skies
 - strongest convection
 - stronger winds

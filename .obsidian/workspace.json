@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "407b8ce4044ee8aa",
+        "id": "0675bdd801c8fb97",
         "type": "tabs",
         "children": [
           {
-            "id": "cdec5029f4ab6fec",
+            "id": "f9d87b5a227c5c95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Time and Cycles/Time and Seasonal System.md",
+                "file": "00 System Core/Global Light States.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time and Seasonal System"
+              "title": "Global Light States"
             }
           }
         ]
@@ -188,26 +188,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "c5c52d3dd665a6f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "442c5de495e30be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Layout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layout"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -226,27 +206,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdec5029f4ab6fec",
+  "active": "affdb925e83e0b38",
   "lastOpenFiles": [
-    "01 Time and Cycles/Seasonal Light States.md",
+    "01 Time and Cycles/Time and Seasonal System.md",
+    "00 System Core/Global Light States.md",
+    "00 System Core/Global Wind Belts.md",
+    "00 System Core/Hydrological Cycle.md",
+    "00 System Core/Lift Mineral — True Lifecycle Model.md",
+    "00 System Core/Shadow Belts.md",
+    "00 System Core/01 - Planetary Climate Structure.md",
+    "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
+    "00 Kanban.md",
     "00 System Core/Cloud Sea Dynamics.md",
     "00 System Core/Atmospheric Circulation.md",
-    "00 System Core/01 - Planetary Climate Structure.md",
     "01 Time and Cycles/Cloud Darkening Cycle.md",
     "01 Time and Cycles/Geological Seasons.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
-    "01 Time and Cycles/Time and Seasonal System.md",
     "01 Time and Cycles/Local Weather Modifiers.md",
-    "00 System Core/Shadow Belts.md",
     "00 System Core/Poles.md",
-    "00 System Core/Lift Mineral — True Lifecycle Model.md",
-    "00 System Core/Hydrological Cycle.md",
     "00 System Core/Floating Island Mechanics.md",
-    "00 System Core/Global Wind Belts.md",
     "08 Meta/Worldbuilding Notes.md",
     "01 Time and Cycles/Season Phases.md",
     "02 Geograph and World Structure/Climate Zones and Biomes.md",
-    "00 Kanban.md",
     "base.base",
     "Layout.md",
     ", as well as **exposure to the radiant core**, as well as the seasonal secondary **uneven shadow belt**. [[.md",
@@ -254,7 +235,6 @@
     "02 Geograph and World Structure/Agricultural Climates.md",
     "02 Geograph and World Structure/Cloud Sea Depth.md",
     "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
-    "08 Meta/Design Philosophy.md",
     "02 Geograph and World Structure/Core Rise",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
