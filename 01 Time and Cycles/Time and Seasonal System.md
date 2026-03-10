@@ -94,6 +94,8 @@ Properties
 
 When a Cycle completes, large drifting island belts return roughly to their original relative positions.
 
+
+
 ---
 
 # Major Seasons
@@ -103,6 +105,12 @@ Five primary seasons are recognized across most cultures.
 These seasons are defined by **lived climate conditions** rather than astronomical mechanics.
 
 Season lengths are uneven because the uneven shadowbelt contains **irregular density regions**.
+
+[[#Fog Season]]
+[[#Planting Season]]
+[[#Storm Season]]
+[[#Fair Season]]
+[[#Waning Season]]
 
 ---
 

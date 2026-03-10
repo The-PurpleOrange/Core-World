@@ -7,6 +7,7 @@ They determine **how much corelight reaches the island layer**. As well as the p
 ---
 
 ### 1 — Total Shadow
+[[Season Phases]] Stage: Cooling Phase
 
 Corelight completely blocked by the shadow belt.
 - global night
@@ -15,7 +16,6 @@ Corelight completely blocked by the shadow belt.
 - wind belts slow slightly
 - bioluminescence / moons dominate sky
 
-[[Season Phases]] Stage: Cooling Phase
 
 Notes
 - this is the darkest condition the world experiences
@@ -24,6 +24,7 @@ Notes
 ---
 
 ### 2 — Diffuse Shadow Day
+[[Season Phases]] Stage: Low Energy Phase
 
 Low-density shadow belt covering the core during the usual daylight period.
 - dim twilight
@@ -31,7 +32,6 @@ Low-density shadow belt covering the core during the usual daylight period.
 - cooler daytime temperatures
 - longer dew/fog persistence
 
-[[Season Phases]] Stage: Low Energy Phase
 
 Notes
 - constant hazy light
@@ -40,6 +40,7 @@ Notes
 ---
 
 ### 3 — Double Filter
+[[Season Phases]] Stage: Maximum Dim Phase
 
 Low-density shadow belt **plus heavy cloud filtering**.
 - extremely low illumination
@@ -48,7 +49,6 @@ Low-density shadow belt **plus heavy cloud filtering**.
 - fog layers thicken
 - navigation harder
 
-[[Season Phases]] Stage: Maximum Dim Phase
 
 Notes
 - The gloomiest seasonal phase
@@ -57,6 +57,7 @@ Notes
 ---
 
 ### 4 — Cloud Filter Only
+[[Season Phases]] Stage: Stable Equilibrium Phase
 
 Shadow belt not covering the core but light filtered through cloud layer.
 - soft diffuse daylight
@@ -64,7 +65,6 @@ Shadow belt not covering the core but light filtered through cloud layer.
 - high humidity
 - ideal agricultural conditions
 
-[[Season Phases]] Stage: Stable Equilibrium Phase
 
 Notes
 - The most common normal state
@@ -73,6 +73,7 @@ Notes
 ---
 
 ### 5 — Clear Corelight
+[[Season Phases]] Stage: High Energy Phase
 
 Corelight reaches islands without major obstruction.
 - brightest skies
@@ -81,7 +82,6 @@ Corelight reaches islands without major obstruction.
 - increased evaporation
 - warmest period
 
-[[Season Phases]] Stage: High Energy Phase
 
 Notes
 - High energy climate phase

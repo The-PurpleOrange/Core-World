@@ -11,10 +11,13 @@
 
 ## Overview  
   
-The planet’s large-scale climate is primarily determined by the [[Shadow Belts#Primary Shadow Belt|primary]] **tilted shadow belt** and the resulting hot spot at the worlds [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]]. #todo-create
-As well [[Cloud Sea Dynamics|Clouds Sea]]'s seasonal exposure through the secondary **uneven shadow belt**.
+The worlds climate structure is primarily driven by the temperature differences between the worlds two opposite [[Poles]].
 
-Due to the primary shadow layer is slightly tilted, the planet has two permanent polar points: A permanent [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] that is never blocked by the [[Shadow Belts#Primary Shadow Belt|Primary Shadow Belt]], and a permanent [[Global Wind Belts#Belt 7 - Outer Drift|Dark Pole]] that never receives direct core light. These polar regions are relatively small and act as regional climate extremes powering the [[#Climate Engine]] of the world.  
+Due to the [[Shadow Belts#Primary Shadow Belt|Primary Shadow Belt]] being slightly tilted, the planet has two permanent polar points: A permanent [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] that is never blocked by the [[Shadow Belts#Primary Shadow Belt|shadow belt]], and a permanent [[Global Wind Belts#Belt 7 - Outer Drift|Dark Pole]] that never receives direct core light. These polar regions are relatively small and act as regional climate extremes powering the [[#Climate Engine]] of the world.  
+
+A secondary driving force is the [[Cloud Sea Dynamics|Clouds Sea]]'s seasonal exposure through the [[Shadow Belts#Secondary Shadow Belt|secondary]] **uneven shadow belt**. Changing the light and heat levels received over the course of a [[Time and Seasonal System#Turning|Turning]]
+
+
   
 ---  
 
