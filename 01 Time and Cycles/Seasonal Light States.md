@@ -14,7 +14,7 @@ Corelight completely blocked by the shadow belt.
 - strongest cooling period
 - atmospheric convection weakens
 - wind belts slow slightly
-- bioluminescence / moons dominate sky
+- sky becomes similar to nautical twilight
 
 
 Notes
@@ -23,23 +23,7 @@ Notes
 
 ---
 
-### 2 — Diffuse Shadow Day
-[[Season Phases]] Stage: Low Energy Phase
-
-Low-density shadow belt covering the core during the usual daylight period.
-- dim twilight
-- weaker heating
-- cooler daytime temperatures
-- longer dew/fog persistence
-
-
-Notes
-- constant hazy light
-- weak shadows
-
----
-
-### 3 — Double Filter
+### 2 — Double Filter
 [[Season Phases]] Stage: Maximum Dim Phase
 
 Low-density shadow belt **plus heavy cloud filtering**.
@@ -56,7 +40,23 @@ Notes
 
 ---
 
-### 4 — Cloud Filter Only
+### 3 — Diffuse Filter
+[[Season Phases]] Stage: Low Energy Phase
+
+Low-density shadow belt covering the core during the usual daylight period.
+- bright twilight
+- weaker heating
+- cooler daytime temperatures
+- longer dew/fog persistence
+
+
+Notes
+- constant hazy light
+- weak shadows
+
+---
+
+### 4 — Cloud Filter
 [[Season Phases]] Stage: Stable Equilibrium Phase
 
 Shadow belt not covering the core but light filtered through cloud layer.
@@ -69,10 +69,25 @@ Shadow belt not covering the core but light filtered through cloud layer.
 Notes
 - The most common normal state
 - no shadows
+---
+
+### 4 — Heavy Cloud Filter
+[[Season Phases]] Stage: Stable Equilibrium Phase
+
+Shadow belt not covering the core but light filtered through heavy cloud layer.
+- dim twilight
+- weaker heating
+- cooler daytime temperatures
+- longer dew/fog persistence
+
+
+Notes
+- The most common normal state
+- no shadows
 
 ---
 
-### 5 — Clear Corelight
+### 5 — Clear 
 [[Season Phases]] Stage: High Energy Phase
 
 Corelight reaches islands without major obstruction.

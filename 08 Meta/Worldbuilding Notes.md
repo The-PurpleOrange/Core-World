@@ -1,0 +1,1 @@
+wouldnt all societies through history haev though that the stars are other worlds like theirs? implications?

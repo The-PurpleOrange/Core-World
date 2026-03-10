@@ -86,209 +86,38 @@ When a Cycle completes, large drifting island belts return roughly to their orig
 
 # Major Seasons
 
-Five primary seasons are recognized across most cultures.
+Five primary seasons are recognised across the majority of cultures.
 
 These seasons are defined by **lived climate conditions** rather than astronomical mechanics.
 
 Season lengths are uneven because the uneven shadowbelt contains **irregular density regions**.
 
-[[#Fog Season]]
-[[#Planting Season]]
-[[#Storm Season]]
-[[#Fair Season]]
-[[#Waning Season]]
+#todo Write in an entry for each Season and move table to references
+
+| Category           | Fog Season                                                                                                               | Planting Season                                                                                                         | Storm Season                                                                                                      | Fair Season                                                                                                             | Waning Season                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Length             | ~65 days                                                                                                                 | ~50 days                                                                                                                | ~35 days                                                                                                          | ~70 days                                                                                                                | ~60 days                                                                                                                  |
+| Light Phases       | [[Seasonal Light States#2 — Double Filter\|Double Filter]]→ [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] | [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] → [[Seasonal Light States#4 — Cloud Filter\|Cloud Filter]] | [[Seasonal Light States#5 — Clear\|Clear]] ~ [[Seasonal Light States#4 — Heavy Cloud Filter\|Heavy Cloud Filter]] | [[Seasonal Light States#4 — Cloud Filter\|Cloud Filter]] → [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] | [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] → [[Seasonal Light States#2 — Double Filter\|Double Filter]] |
+| Sky Conditions     | Heavy shadowbelt filtering, thick cloud cover, weakest yearly corelight                                                  | Shadowbelt thinning, increasing light                                                                                   | Largest gap in shadowbelt, strongest corelight                                                                    | Stable moderate filtering, brightest consistent skies                                                                   | Declining light, brief bright spike during Rebright                                                                       |
+| Climate            | Persistent fog, weak winds, high humidity, low convection, coolest period                                                | Fog lifting, warming air, strengthening convection, early storms                                                        | Intense convection, storm towers, strong updrafts, heavy rainfall                                                 | Steady winds, moderate temperatures, balanced rainfall                                                                  | Temporary storm pulse during Rebright, gradual cooling, fog returning                                                     |
+| Environmental Feel | Quiet sky, dripping vegetation, low visibility                                                                           | Rapid plant growth, insects rising, pollinators returning                                                               | Lightning storms, turbulent winds, sudden squalls                                                                 | Long visibility, stable travel conditions                                                                               | Shifting winds, seed dispersal, animal migration                                                                          |
+| Human Activity     | Indoor crafts, tool maintenance, route planning                                                                          | Planting crops, expeditions begin, travel routes reopen                                                                 | Storm energy harvesting, water collection, limited travel                                                         | Trade, exploration, migration, large construction                                                                       | Harvesting crops, supply preparation, final long travel                                                                   |
+| Seasonal Role      | Coolest and most subdued period                                                                                          | Beginning of the Turning                                                                                                | Short but extremely intense period                                                                                | Primary economic season                                                                                                 | Transition back to Fog Season                                                                                             |
 
 ---
 
-## Fog Season
-
-Approximate length
-
-- ~65 days
-
-Light phases
-
-- Deep Dim
-- Dim
-
-Sky
-
-- heavy shadowbelt filtering
-- thick cloud cover
-- weakest yearly corelight
-
-Climate
-
-- persistent fog
-- weak winds
-- high humidity
-- low convection
-
-Environmental feel
-
-- quiet sky
-- dripping vegetation
-- low visibility
-
-Human activity
-
-- indoor crafts
-- tool maintenance
-- route planning
-
-Fog Season is the **coolest and most subdued period of the Turning**.
-
----
-
-## Planting Season
-
-Approximate length
-
-- ~50 days
-
-Light phase
-
-- late Dim transitioning toward Bright Surge
-
-Sky
-
-- shadowbelt thinning
-- increasing light levels
-
-Climate
-
-- fog lifting
-- warming air
-- convection strengthening
-- early storms forming
-
-Environmental feel
-
-- rapid plant growth
-- insect populations rising
-- pollinators returning
-
-Human activity
-
-- planting crops
-- beginning expeditions
-- reopening seasonal travel routes
-
-The Turning begins with **Planting Season**.
-
----
-
-## Storm Season
-
-Approximate length
-
-- ~35 days
-
-Light phase
-
-- Bright Surge
-
-Sky
-
-- largest gap in the uneven shadowbelt
-- strongest corelight of the Turning
-
-Climate
-
-- intense convection
-- powerful storm towers
-- strong updrafts
-- heavy rainfall
-
-Environmental feel
-
-- lightning storms
-- turbulent winds
-- sudden squalls
-
-Human activity
-
-- storm energy harvesting
-- water collection
-- limited travel
-
-Storm Season is **short but extremely intense**.
-
----
-
-## Fair Season
-
-Approximate length
-
-- ~70 days
-
-Light phase
-
-- Bright
-
-Sky
-
-- stable moderate filtering
-- brightest consistent skies
-
-Climate
-
-- steady winds
-- moderate temperatures
-- balanced rainfall
-
-Environmental feel
-
-- longest visibility distances
-- stable travel conditions
-
-Human activity
-
-- trade
-- exploration
-- migration
-- large construction projects
-
-Fair Season is the **primary economic season of the Turning**.
-
----
-
-## Waning Season
-
-Approximate length
-
-- ~60 days
-
-Light phases
-
-- Fading
-- Rebright
-- Long Fading
-
-Sky
-
-- gradually declining light
-- brief late bright spike during Rebright
-
-Climate
-
-- temporary storm pulse during Rebright
-- gradual cooling afterward
-- fog returning
-
-Environmental feel
-
-- shifting winds
-- seed dispersal
-- animal migration
-
-Human activity
-
-- harvesting crops
-- preparing supplies
-- final long-distance travel
-
-The world gradually returns to **Fog Season**, completing the Turning.
+# Minor Seasons
+These 3 minor seasons are used primarily by the worlds farmers and sailors. They replace the Waning season in the traditional [[#Major Seasons|Major Season]] #todo Expand this
+
+| Category           | Pre- Rebright                                                | Rebright Season                                                                                       | Waning Season                                                                                                             |
+| ------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Length             | ~20 days                                                     | ~15 days                                                                                              | ~25 days                                                                                                                  |
+| Light Phases       | [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] | [[Seasonal Light States#5 — Clear\|Clear]] ~ [[Seasonal Light States#4 — Cloud Filter\|Cloud Filter]] | [[Seasonal Light States#3 — Diffuse Filter\|Diffuse Filter]] → [[Seasonal Light States#2 — Double Filter\|Double Filter]] |
+| Sky Conditions     | Shadowbelt thickening, declining light                       | Small gap in shadowbelt, mild filtering, strong corelight                                             | increasing shadowbelt filtering heading and thickening cloud cover                                                        |
+| Climate            | gradual decrease in temperature with shallow fog banks       | Mild but consistent convection storms, sharp increase in temperatures, balanced rainfall              | increased cooling, fog returning                                                                                          |
+| Environmental Feel | Increased animal pressence?, shifting winds                  | Distant storms, occasional squalls, steady winds                                                      | Shifting winds, seed dispersal, animal migration                                                                          |
+| Human Activity     | Trade, exploration, migration, harvesting crops              | Harvesting crops, water collection, risky travel                                                      | Supply preparation, final long travel                                                                                     |
+| Seasonal Role      | Cold season indicator                                        | Final harvesting period                                                                               | Transition back to Fog Season                                                                                             |
 
 ---
 
