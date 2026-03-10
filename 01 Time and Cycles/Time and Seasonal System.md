@@ -34,20 +34,6 @@ This produces the planet’s **seasonal light cycle**.
 
 ---
 
-## Cloud Layer Interaction
-
-The global cloud sea diffuses incoming corelight.
-
-Effects
-
-- softens shadows
-- reduces direct light intensity
-- stabilizes temperatures
-
-Cloud opacity influences daily weather but does not define the seasonal cycle itself.
-
----
-
 # Calendar Structure
 
 ## Day

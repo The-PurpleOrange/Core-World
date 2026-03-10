@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Season Phases"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "90065cbbccefe6c6",
+        "type": "tabs",
+        "children": [
           {
             "id": "0e1f69c9d784671f",
             "type": "leaf",
@@ -35,8 +41,7 @@
               "title": "Seasonal Light States"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Time and Cycles/Seasonal Light States.md",
+                "file": "01 Time and Cycles/Time and Seasonal System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Seasonal Light States"
+              "title": "Backlinks for Time and Seasonal System"
             }
           },
           {
@@ -195,10 +200,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 Time and Cycles/Seasonal Light States.md"
+                "file": "01 Time and Cycles/Time and Seasonal System.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Seasonal Light States"
+              "title": "File properties for Time and Seasonal System"
             }
           }
         ],
@@ -280,19 +285,23 @@
       }
     ]
   },
-  "active": "0e1f69c9d784671f",
+  "active": "aa202d38d3f7d629",
   "lastOpenFiles": [
     "01 Time and Cycles/Season Phases.md",
+    "00 System Core/Atmospheric Circulation.md",
+    "02 Geograph and World Structure/Climate Zones and Biomes.md",
+    "00 Kanban.md",
+    "base.base",
+    "Layout.md",
+    ", as well as **exposure to the radiant core**, as well as the seasonal secondary **uneven shadow belt**. [[.md",
+    "01 Time and Cycles/Regional Atmospheric States.md",
     "01 Time and Cycles/Seasonal Light States.md",
     "01 Time and Cycles/Time and Seasonal System.md",
-    "00 System Core/Atmospheric Circulation.md",
     "01 Time and Cycles/Geological Seasons.md",
     "01 Time and Cycles/Local Weather Modifiers.md",
     "02 Geograph and World Structure/Agricultural Climates.md",
-    "02 Geograph and World Structure/Climate Zones and Biomes.md",
     "02 Geograph and World Structure/Cloud Sea Depth.md",
     "00 System Core/01 - Planetary Climate Structure.md",
-    "01 Time and Cycles/Regional Atmospheric States.md",
     "00 System Core/Cloud Sea Dynamics.md",
     "00 System Core/Shadow Belts.md",
     "00 System Core/Poles.md",
@@ -301,14 +310,9 @@
     "00 System Core/Hydrological Cycle.md",
     "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
     "08 Meta/Design Philosophy.md",
-    ", as well as **exposure to the radiant core**, as well as the seasonal secondary **uneven shadow belt**. [[.md",
-    "00 Kanban.md",
     "00 System Core/Lift Mineral — True Lifecycle Model.md",
     "Altitude Climate Zones.md",
-    "base.base",
     "02 Geograph and World Structure/Global Wind Belts.md",
-    "^Storm Crown.md",
-    "02 Geograph and World Structure/Core Rise/Corerise.md",
     "02 Geograph and World Structure/Core Rise",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
