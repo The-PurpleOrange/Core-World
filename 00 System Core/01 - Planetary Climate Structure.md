@@ -17,7 +17,6 @@ The world has two permanent polar points: A permanent [[Global Wind Belts#Belt 1
 
 A secondary driving force is the [[Cloud Sea Dynamics|Clouds Sea]]'s seasonal exposure through the [[Shadow Belts#Secondary Shadow Belt|secondary]] **uneven shadow belt**. Changing the light and heat levels received over the course of a [[Time and Seasonal System#Turning|Turning]]
 
-![[PlanataryClimateStructure.excalidraw]]
   
 ---  
 

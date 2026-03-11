@@ -1,3 +1,5 @@
+
+---
 ## Core Principle
 
 Seasons in the floating world are driven primarily by **changes in corelight reaching the island layer**.
@@ -5,6 +7,10 @@ Seasons in the floating world are driven primarily by **changes in corelight rea
 The worlds wind direction is split along the equator
 
 Light intensity varies because of two planetary filters.
+
+![[PlanataryClimateStructure.excalidraw]]
+
+---
 
 ## Primary Shadowbelt
 
