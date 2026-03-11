@@ -8,6 +8,7 @@ The worlds wind direction is split along the equator
 
 Light intensity varies because of two planetary filters.
 
+Reference:
 ![[PlanataryClimateStructure.excalidraw]]
 
 ---

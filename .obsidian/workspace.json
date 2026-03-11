@@ -6,7 +6,6 @@
       {
         "id": "0675bdd801c8fb97",
         "type": "tabs",
-        "dimension": 66.57894736842105,
         "children": [
           {
             "id": "f9d87b5a227c5c95",
@@ -23,25 +22,6 @@
             }
           },
           {
-            "id": "596ba0dc58cffbeb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "07 Reference/Pictures/PlanataryClimateStructure.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PlanataryClimateStructure.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "83b6bf7b31d6b333",
-        "type": "tabs",
-        "dimension": 33.421052631578945,
-        "children": [
-          {
             "id": "e07778293207e60b",
             "type": "leaf",
             "state": {
@@ -55,7 +35,8 @@
               "title": "Time and Seasonal System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +222,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f9d87b5a227c5c95",
+  "active": "e07778293207e60b",
   "lastOpenFiles": [
-    "01 Time and Cycles/Time and Seasonal System.md",
     "00 System Core/01 - Planetary Climate Structure.md",
+    "01 Time and Cycles/Time and Seasonal System.md",
     "07 Reference/Pictures/PlanataryClimateStructure.excalidraw.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
     "00 System Core/Global Light States.md",
