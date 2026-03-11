@@ -9,7 +9,7 @@ They determine **how much corelight reaches the island layer**. As well as the p
 ### 1 — Total Shadow
 [[Season Phases]] Stage: Cooling Phase
 Shadow belt Density: solid
-Cloud Density: N/A 
+Cloud Density: N/A
 
 - global night
 - strongest cooling period
