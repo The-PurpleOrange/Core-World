@@ -1,1 +1,1 @@
-wouldnt all societies through history haev though that the stars are other worlds like theirs? implications?
+wouldnt all societies through history have thought that the stars are other worlds like theirs? implications?

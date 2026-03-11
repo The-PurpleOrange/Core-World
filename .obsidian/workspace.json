@@ -6,6 +6,7 @@
       {
         "id": "0675bdd801c8fb97",
         "type": "tabs",
+        "dimension": 66.57894736842105,
         "children": [
           {
             "id": "f9d87b5a227c5c95",
@@ -19,6 +20,40 @@
               },
               "icon": "lucide-file",
               "title": "01 - Planetary Climate Structure"
+            }
+          },
+          {
+            "id": "596ba0dc58cffbeb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "07 Reference/Pictures/PlanataryClimateStructure.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PlanataryClimateStructure.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "83b6bf7b31d6b333",
+        "type": "tabs",
+        "dimension": 33.421052631578945,
+        "children": [
+          {
+            "id": "e07778293207e60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Time and Cycles/Time and Seasonal System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time and Seasonal System"
             }
           }
         ]
@@ -203,38 +238,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f9d87b5a227c5c95",
+  "active": "596ba0dc58cffbeb",
   "lastOpenFiles": [
-    "00 System Core/Atmospheric Circulation.md",
-    "00 System Core/Cloud Sea Dynamics.md",
+    "99 Scratchpad/01- Ideas to expand upon.md",
+    "00 System Core/01 - Planetary Climate Structure.md",
+    "07 Reference/Pictures/PlanataryClimateStructure.excalidraw.md",
+    "01 Time and Cycles/Time and Seasonal System.md",
     "00 System Core/Global Light States.md",
     "00 System Core/Floating Island Mechanics.md",
+    "00 System Core/Cloud Sea Dynamics.md",
+    "00 System Core/Atmospheric Circulation.md",
+    "01 Time and Cycles/Geological Seasons.md",
+    "07 Reference/Pictures",
+    "02 Geograph and World Structure/Agricultural Climates.md",
+    "08 Meta/Worldbuilding Notes.md",
+    "08 Meta/Things to Expand.md",
+    "08 Meta/Design Philosophy.md",
     "00 System Core/Global Wind Belts.md",
-    "01 Time and Cycles/Time and Seasonal System.md",
+    "00 System Core/Shadow Belts.md",
+    "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
     "00 System Core/Hydrological Cycle.md",
     "00 System Core/Lift Mineral — True Lifecycle Model.md",
-    "00 System Core/Shadow Belts.md",
-    "00 System Core/01 - Planetary Climate Structure.md",
     "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
     "00 Kanban.md",
     "01 Time and Cycles/Cloud Darkening Cycle.md",
-    "01 Time and Cycles/Geological Seasons.md",
-    "99 Scratchpad/01- Ideas to expand upon.md",
     "01 Time and Cycles/Local Weather Modifiers.md",
     "00 System Core/Poles.md",
-    "08 Meta/Worldbuilding Notes.md",
     "01 Time and Cycles/Season Phases.md",
     "02 Geograph and World Structure/Climate Zones and Biomes.md",
     "base.base",
-    "Layout.md",
-    ", as well as **exposure to the radiant core**, as well as the seasonal secondary **uneven shadow belt**. [[.md",
-    "01 Time and Cycles/Regional Atmospheric States.md",
-    "02 Geograph and World Structure/Agricultural Climates.md",
-    "02 Geograph and World Structure/Cloud Sea Depth.md",
-    "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
     "02 Geograph and World Structure/Core Rise",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
@@ -243,7 +279,6 @@
     "06 Story/Characters",
     "Untitled 1.base",
     "Untitled 2.base",
-    "05 Civilisation/Untitled.base",
-    "08 Meta"
+    "05 Civilisation/Untitled.base"
   ]
 }

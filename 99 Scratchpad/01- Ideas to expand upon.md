@@ -20,6 +20,8 @@
 - is the floating mineral an infection, slowly eating everything, and it fights gravity when it's exposed to the core, is it a parasitic crystal? Life cycle is hyperfast fragments in space, imbed into planetary body, eat towards core, surround it > gradually eating upwards surface while beneath becomes pure crystal, eventually the surface is breached and due to some sort of internal pressure difference with space it ejects out the majority of the crystal as shards at hyperfast speeds restarting the cycle. - cosmic horror
 - rumor/ship/island/tourist-resort/massive-shopping-mall that stays orbitally locked to the best weather condition in the [[Shadow Belts#Secondary Shadow Belt|season belt]]
 - pollinator is a nightime bug, flowers/fruits open pollen at night? pollination done naturally through rebright storm period? long distance pollinators, vertical pollinators?
+  
+![[Worldbuilding Notes]]
 # TODO
 
 - Revisit **Global Wind Belts**
@@ -27,3 +29,8 @@
   - check interaction with island drift
   - confirm storm corridor placement
   - align terminology with civilization altitude bands
+
+
+Yo what about a world thats similar but its like an actual core world where the world is on the inside facing the core.
+Cyberpunk style setup with rampage, maybe shes an angel and is supposed to free the god in the core? physics feel like they should work is gravity exists but the sun has a repelling force that keeps the primary/secondary shadowbelt away
+Story is the whole globe is just one big ai tech totalitarian mega city, billboards in the shadowbelt style, and the main character just wants to escape, no stars or sky mean where would you escape to

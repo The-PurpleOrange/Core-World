@@ -11,11 +11,14 @@
 
 ## Overview  
   
-The worlds climate structure is primarily driven by the temperature differences between the worlds two opposite [[Poles]].
+The worlds climate structure is primarily driven by the tilted [[Shadow Belts#Primary Shadow Belt|Primary Shadow Belt]], and the resulting temperature differences between the worlds two opposite [[Poles]].
 
-Due to the [[Shadow Belts#Primary Shadow Belt|Primary Shadow Belt]] being slightly tilted, the planet has two permanent polar points: A permanent [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] that is never blocked by the [[Shadow Belts#Primary Shadow Belt|shadow belt]], and a permanent [[Global Wind Belts#Belt 7 - Outer Drift|Dark Pole]] that never receives direct core light. These polar regions are relatively small and act as regional climate extremes powering the [[#Climate Engine]] of the world.  
+The world has two permanent polar points: A permanent [[Global Wind Belts#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] that is never blocked by the [[Shadow Belts#Primary Shadow Belt|shadow belt]], and a permanent [[Global Wind Belts#Belt 7 - Outer Drift|Dim Pole]] that never receives direct core light. These polar regions are relatively small and act as regional climate extremes powering the [[#Climate Engine]] of the world.  
 
 A secondary driving force is the [[Cloud Sea Dynamics|Clouds Sea]]'s seasonal exposure through the [[Shadow Belts#Secondary Shadow Belt|secondary]] **uneven shadow belt**. Changing the light and heat levels received over the course of a [[Time and Seasonal System#Turning|Turning]]
+
+
+---
 
 
   

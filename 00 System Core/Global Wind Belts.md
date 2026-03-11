@@ -22,12 +22,13 @@
 
 As the high moisture air spreads outwards from the [[#Belt 1 - Corerise / Radiant Pole|Radiant Pole]] and [[01 - Planetary Climate Structure|later cools]] as it travels to the [[#Belt 7 - Outer Drift|Outer Drift]], enormous atmospheric circulation cells form. These circulation systems produce stable wind belts that move air horizontally across the different island layers. 
 The belts are organised into 7 large major wind belts, 3 minor belts, and 2 "Jupiter spots". #todo
+While the top half of the world spins clockwise, the bottom half spins counterclockwise, with the [[#Belt 4 - Driftbar / Leftwind Calm Belt|Driftbar]] spinning lazying clockwise
 
 These belts form the interaction of several different planetary forces resulting in the distribution for [[Climate Zones and Biomes]]
 
 Sources:
 - Constant heating from the permanent [[#Corerise / Radiant Pole]]
-- Large scale convention rising from the Cloud Sea ([[Cloud Sea Dynamics]]) ^9a4273
+- Large scale convention rising from the Cloud Sea ([[Cloud Sea Dynamics]])
 - #todo
 
 Wind belts determine:
