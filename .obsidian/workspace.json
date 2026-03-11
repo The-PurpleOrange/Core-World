@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 System Core/Global Light States.md",
+                "file": "00 System Core/01 - Planetary Climate Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Light States"
+              "title": "01 - Planetary Climate Structure"
             }
           }
         ]
@@ -206,25 +206,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affdb925e83e0b38",
+  "active": "f9d87b5a227c5c95",
   "lastOpenFiles": [
-    "01 Time and Cycles/Time and Seasonal System.md",
+    "00 System Core/Atmospheric Circulation.md",
+    "00 System Core/Cloud Sea Dynamics.md",
     "00 System Core/Global Light States.md",
+    "00 System Core/Floating Island Mechanics.md",
     "00 System Core/Global Wind Belts.md",
+    "01 Time and Cycles/Time and Seasonal System.md",
     "00 System Core/Hydrological Cycle.md",
     "00 System Core/Lift Mineral — True Lifecycle Model.md",
     "00 System Core/Shadow Belts.md",
     "00 System Core/01 - Planetary Climate Structure.md",
     "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
     "00 Kanban.md",
-    "00 System Core/Cloud Sea Dynamics.md",
-    "00 System Core/Atmospheric Circulation.md",
     "01 Time and Cycles/Cloud Darkening Cycle.md",
     "01 Time and Cycles/Geological Seasons.md",
     "99 Scratchpad/01- Ideas to expand upon.md",
     "01 Time and Cycles/Local Weather Modifiers.md",
     "00 System Core/Poles.md",
-    "00 System Core/Floating Island Mechanics.md",
     "08 Meta/Worldbuilding Notes.md",
     "01 Time and Cycles/Season Phases.md",
     "02 Geograph and World Structure/Climate Zones and Biomes.md",
