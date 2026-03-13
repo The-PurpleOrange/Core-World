@@ -4,48 +4,26 @@
 
 Seasons in the floating world are driven primarily by **changes in corelight reaching the island layer**.
 
-The worlds wind direction is split along the equator
+due to the uneven structure of the shadowbelt and wind directions, the bottom half of the world experiences a counterclockwise island rotation, resulting in an alternate season schedule at an increased rate, as a well as a small [[Shadow Belts#Secondary Shadow Belt|Shadow Belt]] tide-locked band in the bottom half of the drift bar where location is the permanent season
 
 Light intensity varies because of two planetary filters.
 
 Reference:
-![[PlanataryClimateStructure.excalidraw]]
+![[PlanetaryClimateStructureTop.excalidraw]]![[PlanetaryClimateStructureSide.excalidraw]]
 
 ---
 
-## Primary Shadowbelt
-
-A dense particulate belt orbiting between the planetary core and the floating islands.
-
-Properties
-
-- stable density
-- constant orbital path
-- responsible for the universal **day / night cycle**
-
-This belt acts as the planet’s **primary astronomical clock**.
+## Contents
+- [[#Day / Night System]]
+- [[#Calendar Structure]]
+- [[#Standardise Calendar (Tradewinds)]]
+- [[#Major Seasons]]
+- [[#Minor Seasons]]
+- [[#Altitude Climate Zones]]
 
 ---
 
-## Outer Uneven Shadowbelt
-
-A second, more distant particulate belt with **irregular density**.
-
-Properties
-
-- thinner than the primary belt
-- uneven mass distribution
-- rotates slowly relative to the planet
-
-As dense and thin regions pass between the islands and the core, the amount of light reaching the world changes.
-
-This produces the planet’s **seasonal light cycle**.
-
----
-
-# Calendar Structure
-
-## Day
+# Day / Night System
 
 Day and night occur when the **primary shadowbelt** blocks the planetary core.
 
@@ -56,6 +34,18 @@ Properties
 - used for daily timekeeping
 
 ---
+
+# Calendar Structure
+
+### Description
+
+The standardised [[#Standardise Calendar (Tradewinds)|Calendar]] system is primarily used by nations of the [[Global Wind Belts#Belt 3 - Tradewinds / Inner Wind Belt|Tradewinds]] belt.
+
+Due to the difference in island migrations times most belts have a unique or set of unique local calendars based on the individual weather system. 
+
+---
+
+# Standardise Calendar (Tradewinds)
 
 ## Turning
 
@@ -71,7 +61,6 @@ This produces the repeating seasonal light cycle.
 
 The Turning begins with the start of **Planting Season**.
 
----
 
 ## Cycle
 
@@ -89,8 +78,6 @@ Properties
 
 When a Cycle completes, large drifting island belts return roughly to their original relative positions.
 
-
-
 ---
 
 # Major Seasons
@@ -98,6 +85,8 @@ When a Cycle completes, large drifting island belts return roughly to their orig
 Five primary seasons are recognised across the majority of cultures.
 
 These seasons are defined by **lived climate conditions** rather than astronomical mechanics.
+
+The seasons on the bottom half of the world run inverted to the shadowbelt, resulting in a different season structure. See [[Inverted Time and Seasonal System]] #todo 
 
 Season lengths are uneven because the uneven shadowbelt contains **irregular density regions**.
 
@@ -134,7 +123,7 @@ These 3 minor seasons are used primarily by the worlds farmers and sailors. They
 
 Altitude affects **moisture and storm exposure** more than temperature.
 
-## Low Islands (Cloud Edge)
+### Low Islands (Cloud Edge)
 
 Characteristics
 
@@ -145,9 +134,7 @@ Characteristics
 
 These islands receive the most moisture from the cloud sea.
 
----
-
-## Mid Altitude Islands
+### Mid Altitude Islands
 
 Characteristics
 
@@ -157,9 +144,7 @@ Characteristics
 
 Most permanent settlements exist in this altitude band.
 
----
-
-## High Islands
+### High Islands
 
 Characteristics
 
@@ -169,58 +154,3 @@ Characteristics
 - sparse vegetation
 
 Storms here are **wind-driven rather than rain-driven**.
-
----
-
-# Storm Behavior
-
-Storms form when strong corelight heats the lower atmosphere and drives convection from the cloud sea.
-
-Major storm pulses occur during
-
-- **Storm Season (Bright Surge)** — primary storm peak
-- **Rebright phase** — smaller late-year storm pulse
-
-These storms can produce towering storm columns rising from the cloud sea toward the island layer.
-
----
-
-# Regional Atmospheric Systems
-
-Global seasons determine the general climate pattern.
-
-However, **regional atmospheric systems** influence local weather.
-
-Stable convection zones create
-
-- storm corridors
-- calm basins
-- wind lanes
-- fog basins
-
-Because islands drift through these regions, local conditions may vary significantly even within the same season.
-
----
-
-# Annual Climate Rhythm
-
-Each Turning follows a repeating pattern.
-
-Foggy dim sky  
-→ warming and planting  
-→ violent storm burst  
-→ long stable bright period  
-→ gradual dimming with brief storm return  
-→ slow descent back into fog
-
-This rhythm is driven by the **slow rotation of the uneven shadowbelt combined with cloud sea convection**.
-
----
-
-# Long-Term Planetary Rhythm
-
-Over the course of a **Cycle (7 Turnings)**, drifting island belts slowly move across the world.
-
-As these island groups migrate through different atmospheric regions, climate patterns and trade routes gradually shift.
-
-A completed Cycle marks the approximate return of major island belts to their previous geographic positions.
