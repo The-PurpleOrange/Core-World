@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Time and Cycles/Time and Seasonal System.md",
+                "file": "Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time and Seasonal System"
+              "title": "Layout"
             }
           }
         ]
@@ -209,8 +209,10 @@
   },
   "active": "b9ff3dd6c9965218",
   "lastOpenFiles": [
-    "07 Reference/Pictures/PlanetaryClimateStructureSide.excalidraw.md",
+    "00 Kanban.md",
+    "base.base",
     "01 Time and Cycles/Time and Seasonal System.md",
+    "07 Reference/Pictures/PlanetaryClimateStructureSide.excalidraw.md",
     "07 Reference/Pictures/PlanetaryClimateStructureTop.excalidraw.md",
     "00 System Core/Lift Mineral — True Lifecycle Model.md",
     "00 System Core/Floating Island Mechanics.md",
@@ -235,8 +237,6 @@
     "00 System Core/Global Wind Belts.md",
     "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
     "03 Power and Tech/Personal Equipment/Spring Drive Pack.md",
-    "00 Kanban.md",
-    "base.base",
     "02 Geograph and World Structure/Core Rise",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
