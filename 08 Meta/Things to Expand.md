@@ -1,0 +1,1 @@
+https://plugins.javalent.com/calendarium/create-calendar Fantasy Calendar plugin
