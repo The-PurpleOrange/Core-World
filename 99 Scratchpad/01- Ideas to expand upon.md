@@ -23,6 +23,9 @@
 - would gear include handwraps to help with jarring during travel
 
 ## magic system? 
+---
+stuff?
+
   
 ![[Worldbuilding Notes]]
 # TODO
