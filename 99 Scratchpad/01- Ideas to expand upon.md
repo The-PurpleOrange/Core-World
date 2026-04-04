@@ -24,6 +24,9 @@
 - would magic go here
 
 ## magic system? 
+---
+stuff?
+
   
 ![[Worldbuilding Notes]]
 # TODO

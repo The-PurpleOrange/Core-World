@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0675bdd801c8fb97",
+        "id": "4289f01990a18801",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ff3dd6c9965218",
+            "id": "681907b97939cc8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Meta/Things to Expand.md",
+                "file": "99 Scratchpad/01- Ideas to expand upon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Things to Expand"
+              "title": "01- Ideas to expand upon"
             }
           }
         ]
@@ -207,12 +207,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b9ff3dd6c9965218",
+  "active": "681907b97939cc8e",
   "lastOpenFiles": [
-    "08 Meta/Worldbuilding Notes.md",
-    "08 Meta/Things to Expand.md",
-    "08 Meta/Design Philosophy.md",
     "Layout.md",
+    "08 Meta/Things to Expand.md",
+    "07 Reference/Pictures/Drawing 2026-03-12 11.33.32.excalidraw.md",
+    "08 Meta/Worldbuilding Notes.md",
+    "08 Meta/Design Philosophy.md",
     "00 Kanban.md",
     "base.base",
     "01 Time and Cycles/Time and Seasonal System.md",
@@ -236,7 +237,6 @@
     "99 Scratchpad/01- Ideas to expand upon.md",
     "07 Reference/Pictures",
     "00 System Core/Global Wind Belts.md",
-    "00 System Core/00 - SYSTEM CORE LOCKED PHYSICS.md",
     "02 Geograph and World Structure/Core Rise",
     "03 Power and Tech/Personal Equipment",
     "03 Power and Tech/Untitled.canvas",
