@@ -21,6 +21,7 @@
 - rumor/ship/island/tourist-resort/massive-shopping-mall that stays orbitally locked to the best weather condition in the [[Shadow Belts#Secondary Shadow Belt|season belt]]
 - pollinator is a nightime bug, flowers/fruits open pollen at night? pollination done naturally through rebright storm period? long distance pollinators, vertical pollinators?
 - would gear include handwraps to help with jarring during travel
+- would magic go here
 
 ## magic system? 
   
